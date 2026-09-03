@@ -106,7 +106,3 @@ real-estate-market-analysis/
 ## Аналитическая записка
 
 Подробные ответы на вопросы проекта находятся в [`docs/analytical_note.md`](docs/analytical_note.md).
-
-## Dashboard
-
-После публикации дашборда DataLens сюда можно добавить ссылку и скриншот итоговой версии.
